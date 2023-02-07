@@ -1,1 +1,1 @@
-__Yandex_Praktikum
+__Yandex_Praktikum__
